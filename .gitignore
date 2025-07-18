@@ -1,0 +1,7 @@
+/venv/
+/service_account.json
+/urls.txt
+/indexing_results_*.json
+*.log
+*.zip
+google-index-v2.zip
